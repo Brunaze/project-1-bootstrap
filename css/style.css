@@ -1,0 +1,42 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: linear-gradient(#9AA39E, #57605D);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.navbarfont {
+    font-size: 22px;
+    color: #000;
+}
+
+.dropdown-item {
+    font-size: 22px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    width: 100%;
+}
+
+.home {
+    text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+}
